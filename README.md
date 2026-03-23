@@ -1,6 +1,6 @@
-# Hello there :mage_man:
+# <div align="center"> Hello there :mage_man: </div>
 
-## Welcome to my Github Repo :octocat:
+## <div align="center"> Welcome to my Github Repo :octocat: </div>
 
 ## About me! :wave: 
 
