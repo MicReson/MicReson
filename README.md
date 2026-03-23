@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hello there :mage_man:
 
+## I'm Pablo :trollface:
+
+### This is my Github Repo :octocat:
 <!--
 **MicReson/MicReson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
