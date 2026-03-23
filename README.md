@@ -1,8 +1,6 @@
-# Hello there :mage_man:
+<div align="center"> # Hello there :mage_man: </div>
 
-## I'm Pablo :trollface:
-
-### This is my Github Repo :octocat:
+## Welcome to my Github Repo :octocat:
 <!--
 **MicReson/MicReson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
