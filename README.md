@@ -1,7 +1,5 @@
 # <div align="center"> Hello there :mage_man: </div>
 
-## <div align="center"> Welcome to my Github Repo :octocat: </div>
-
 ## About me! :wave: 
 
 I'm a new media artist who also loves videogames with experience in the videogame industry with a focus on audio video games.
